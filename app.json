@@ -1,9 +1,7 @@
 {
   "expo": {
-    "name": "Tab Navigation Template",
+    "name": "gomister",
     "slug": "gomister",
-    "privacy": "public",
-    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
